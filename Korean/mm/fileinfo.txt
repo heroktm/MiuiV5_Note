@@ -39,5 +39,3 @@ TelocationProvider.apk /system/app/TelocationProvider.apk
 ThemeManager.apk /system/app/ThemeManager.apk
 Updater.apk /system/app/updater.apk
 XiaomiServiceFramework.apk /system/app/XiaomiServiceFramework.apk
-
-
