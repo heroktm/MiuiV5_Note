@@ -15,8 +15,8 @@ Email.apk /system/app/Email.apk
 FileExplorer.apk /system/app/FileExplorer.apk
 framework-res.apk /system/framework/framework-res.apk
 framework-miui-res.apk /system/framework/framework-miui-res.apk
-GuardProvider.apk /system/GuardProvider.apk
-LBESEC_MIUI.apk /system/LBESEC_MIUI.apk
+GuardProvider.apk /system/app/GuardProvider.apk
+LBESEC_MIUI.apk /system/app/LBESEC_MIUI.apk
 MiuiCompass.apk /system/app/MiuiCompass.apk
 MiuiGallery.apk /system/app/MiuiGallery.apk
 MiuiHome.apk /system/app/MiuiHome.apk
