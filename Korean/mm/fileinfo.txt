@@ -11,12 +11,12 @@ Contacts.apk /system/app/Contacts.apk
 ContactsProvider.apk /system/app/ContactsProvider.apk
 DeskClock.apk /system/app/DeskClock.apk
 DownloadProviderUi.apk /system/app/DownloadProviderUi.apk
-Email.apk system/app/Email.apk
+Email.apk /system/app/Email.apk
 FileExplorer.apk /system/app/FileExplorer.apk
 framework-res.apk /system/framework/framework-res.apk
 framework-miui-res.apk /system/framework/framework-miui-res.apk
 GuardProvider.apk system/framework/GuardProvider.apk
-LBESEC_MIUI.apk system/framework/LBESEC_MIUI.apk
+LBESEC_MIUI.apk /system/framework/LBESEC_MIUI.apk
 MiuiCompass.apk /system/app/MiuiCompass.apk
 MiuiGallery.apk /system/app/MiuiGallery.apk
 MiuiHome.apk /system/app/MiuiHome.apk
