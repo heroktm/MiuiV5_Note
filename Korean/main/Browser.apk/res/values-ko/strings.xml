@@ -405,7 +405,7 @@
     <string name="accessibility_button_goto">이동</string>
     <string name="contextmenu_download_image_as">이미지를 다른 이름으로 저장</string>
     <string name="pref_ua_title">사용자 에이전트 관리</string>
-    <string name="pref_ua_string">사용자 에이전트 문자열</string>
+    <string name="pref_ua_string">웹페이지 표시방법</string>
     <string name="pref_ua_mione_entry">MiOne</string>
     <string name="pref_ua_mione_value">6</string>
 	<string name="dump_counters">V8 카운터 덤프</string>
