@@ -21,6 +21,7 @@ function applyCustomFixes(apkName, apk)
 		if targetFile and targetFile.Success then
 			targetFile.Data = string.gsub(targetFile.Data, '  %- 1', text)
 			targetFile:Save()
+		end
 
 	end
 
