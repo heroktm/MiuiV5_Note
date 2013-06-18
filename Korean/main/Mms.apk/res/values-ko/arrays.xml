@@ -61,8 +61,21 @@
         <item>무음일 때만</item>
         <item>진동 없음</item>
     </string-array>
+	    <string-array name="prefValues_vibrateWhen">
+        <item>항상</item>
+        <item>무음</item>
+        <item>안함</item>
+    </string-array>
     <string-array name="entries_date_type">
         <item>도착한 시간 표시</item>
         <item>전송 시간 표시 (서버 시간 사용)</item>
+    </string-array>
+	    <string-array name="resent_via_entries_sms">
+        <item>메세지</item>
+        <item>클라우드 메세지</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>메세지</item>
+        <item>클라우드 메세지</item>
     </string-array>
 </resources>

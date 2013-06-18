@@ -16,4 +16,8 @@
     <plurals name="recipient_count">
         <item quantity="other">%1$s명</item>
     </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s 개의 메세지</item>
+        <item quantity="one">%1$s 개의 메세지</item>
+    </plurals>
 </resources>

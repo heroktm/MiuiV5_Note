@@ -1,8 +1,7 @@
 AntiSpam.apk /system/app/AntiSpam.apk
-Baup.apk /system/app/Baup.apk
+Backup.apk /system/app/Backup.apk
 Bluetooth.apk /system/app/Bluetooth.apk
 Browser.apk /system/app/Browser.apk
-BugReport.apk /system/app/BugReport.apk
 Calculator.apk /system/app/Calculator.apk
 Calendar.apk /system/app/Calendar.apk
 CertInstaller.apk /system/app/CertInstaller.apk
@@ -37,5 +36,6 @@ SoundRecorder.apk /system/app/SoundRecorder.apk
 TelephonyProvider.apk /system/app/TelephonyProvider.apk
 TelocationProvider.apk /system/app/TelocationProvider.apk
 ThemeManager.apk /system/app/ThemeManager.apk
-Updater.apk /system/app/updater.apk
 XiaomiServiceFramework.apk /system/app/XiaomiServiceFramework.apk
+transfer.apk /system/app/transfer.apk
+

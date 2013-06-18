@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  Copyright (C) 2007 The Android Open Source Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
- -->
-
-<resources xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <string name="yes" msgid="4676390750360727396">"예"</string>
     <string name="no" msgid="6731231425810196216">"아니요"</string>
     <string name="device_info_default" msgid="7847265875578739287">"알 수 없음"</string>
@@ -164,8 +148,6 @@
     <string name="normal_date_format" msgid="7636406984925498359">"기본값(<xliff:g id="DATE">%s</xliff:g>)"</string>
     <string name="display_preview_label" msgid="1127597250917274792">"미리보기:"</string>
     <string name="display_font_size_label" msgid="8941851418397475389">"글꼴 크기:"</string>
-    <!-- no translation found for intent_sender_data_label (6332324780477289261) -->
-    <skip />
     <string name="intent_sender_sendbroadcast_text" msgid="1415735148895872715">"전송<xliff:g id="BROADCAST">broadcast</xliff:g>"</string>
     <string name="intent_sender_action_label" msgid="616458370005452389">"<xliff:g id="ACTION">Action</xliff:g>:"</string>
     <string name="intent_sender_startactivity_text" msgid="5080516029580421895">"<xliff:g id="ACTIVITY">activity</xliff:g> 시작"</string>
@@ -370,30 +352,6 @@
     <string name="lockpassword_password_requires_alpha" msgid="5668524505560400449">"비밀번호에는 적어도 하나의 문자가 포함되어야 합니다."</string>
     <string name="lockpassword_password_requires_digit" msgid="4840579514154254907">"비밀번호에는 적어도 하나의 숫자가 포함되어야 합니다."</string>
     <string name="lockpassword_password_requires_symbol" msgid="4140602725865312078">"비밀번호에는 적어도 하나의 기호가 포함되어야 합니다."</string>
-  <plurals name="lockpassword_password_requires_letters">
-    <item quantity="one" msgid="1462968118065694590">"비밀번호에는 적어도 하나의 문자가 포함되어야 합니다."</item>
-    <item quantity="other" msgid="7278096339907683541">"비밀번호에는 적어도 %d개의 문자가 포함되어야 합니다."</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_lowercase">
-    <item quantity="one" msgid="2048653993044269649">"비밀번호에는 적어도 하나의 소문자가 포함되어야 합니다."</item>
-    <item quantity="other" msgid="588499075580432178">"비밀번호에는 적어도 %d개의 소문자가 포함되어야 합니다."</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_uppercase">
-    <item quantity="one" msgid="7677454174080582601">"비밀번호에는 적어도 하나의 대문자가 포함되어야 합니다."</item>
-    <item quantity="other" msgid="2183090598541826806">"비밀번호에는 적어도 %d개의 대문자가 포함되어야 합니다."</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_numeric">
-    <item quantity="one" msgid="8585088032818933985">"비밀번호에는 적어도 하나의 숫자가 포함되어야 합니다."</item>
-    <item quantity="other" msgid="995673409754935278">"비밀번호에는 적어도 %d개의 숫자가 포함되어야 합니다."</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_symbols">
-    <item quantity="one" msgid="3930886641317826293">"비밀번호에는 적어도 하나의 특수 기호가 포함되어야 합니다."</item>
-    <item quantity="other" msgid="3047460862484105274">"비밀번호에는 적어도 %d개의 특수 기호가 포함되어야 합니다."</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_nonletter">
-    <item quantity="one" msgid="1716355580615489062">"비밀번호에는 글자가 아닌 문자가 한 개 이상 포함되어야 합니다."</item>
-    <item quantity="other" msgid="5574191164708145973">"비밀번호에는 적어도 %d개 이상의 글자가 아닌 문자가 포함되어야 합니다."</item>
-  </plurals>
     <string name="lockpassword_password_recently_used" msgid="2739642871806935825">"장치 관리자가 최근 비밀번호 사용을 허용하지 않습니다."</string>
     <string name="lockpassword_ok_label" msgid="313822574062553672">"확인"</string>
     <string name="lockpassword_cancel_label" msgid="8818529276331121899">"취소"</string>
@@ -1040,13 +998,9 @@
     <string name="cached" msgid="1059590879740175019">"백그라운드 프로세스 캐시됨"</string>
     <string name="no_running_services" msgid="2059536495597645347">"실행 중인 서비스가 없습니다."</string>
     <string name="service_started_by_app" msgid="818675099014723551">"앱에서 시작했습니다."</string>
-    <!-- no translation found for service_client_name (4037193625611815517) -->
-    <skip />
     <string name="service_background_processes" msgid="6844156253576174488">"<xliff:g id="MEMORY">%1$s</xliff:g> 남음"</string>
     <string name="service_foreground_processes" msgid="7583975676795574276">"<xliff:g id="MEMORY">%1$s</xliff:g> 사용됨"</string>
     <string name="memory" msgid="6609961111091483458">"RAM"</string>
-    <!-- no translation found for service_process_name (4098932168654826656) -->
-    <skip />
     <string name="running_processes_item_description_s_s" msgid="5790575965282023145">"프로세스 <xliff:g id="NUMPROCESS">%1$d</xliff:g>개 및 서비스 <xliff:g id="NUMSERVICES">%2$d</xliff:g>개"</string>
     <string name="running_processes_item_description_s_p" msgid="8019860457123222953">"프로세스 <xliff:g id="NUMPROCESS">%1$d</xliff:g>개 및 서비스 <xliff:g id="NUMSERVICES">%2$d</xliff:g>개"</string>
     <string name="running_processes_item_description_p_s" msgid="744424668287252915">"프로세스 <xliff:g id="NUMPROCESS">%1$d</xliff:g>개 및 서비스 <xliff:g id="NUMSERVICES">%2$d</xliff:g>개"</string>
@@ -1199,8 +1153,6 @@
     <string name="battery_stats_wifi_running_label" msgid="3093545080361658269">"Wi-Fi"</string>
     <string name="battery_stats_wake_lock_label" msgid="1908942681902324095">"켜짐"</string>
     <string name="battery_stats_phone_signal_label" msgid="4137799310329041341">"모바일 네트워크 신호"</string>
-    <!-- no translation found for battery_stats_last_duration (1535831453827905957) -->
-    <skip />
     <string name="awake" msgid="387122265874485088">"장치 무중단 가동 시간"</string>
     <string name="wifi_on_time" msgid="6310209835617490616">"Wi-Fi 사용 시간"</string>
     <string name="bluetooth_on_time" msgid="6157799524996162271">"Wi-Fi 사용 시간"</string>
@@ -1408,8 +1360,7 @@
     <string name="settings_backup_summary" msgid="7916877705938054035">"내 설정 백업"</string>
     <string name="sync_menu_sync_now" msgid="6154608350395805683">"지금 동기화"</string>
     <string name="sync_menu_sync_cancel" msgid="8292379009626966949">"동기화 취소"</string>
-    <string name="sync_one_time_sync" msgid="6766593624598183090">"지금 동기화하려면 터치<xliff:g id="LAST_SYNC_TIME">
-%1$s</xliff:g>"</string>
+    <string name="sync_one_time_sync" msgid="6766593624598183090">"지금 동기화하려면 터치<xliff:g id="LAST_SYNC_TIME">%1$s</xliff:g>"</string>
     <string name="sync_gmail" msgid="714886122098006477">"Gmail"</string>
     <string name="sync_calendar" msgid="9056527206714733735">"캘린더"</string>
     <string name="sync_contacts" msgid="9174914394377828043">"연락처"</string>
@@ -1580,7 +1531,6 @@
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"취소"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
     <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"추가 시스템 업데이트"</string>
-    
     <string name="xiaomi_account">Xiaomi 계정</string>
     <string name="sms_received_sound_title">SMS 수신음</string>
     <string name="sms_delivered_sound_title">SMS 발신음</string>
@@ -1711,7 +1661,6 @@
     <string name="device_cpu4_info">"쿼드코어 "</string>
     <string name="available_size">%s 사용 가능</string>
     <string name="total_size">(전체 %s 중에서)</string>
-    
 	<string name="confirm_erase">삭제 확인</string>
 	<string name="erase_application">앱 삭제</string>
 	<string name="erase_application_description">설치된 앱 삭제</string>
@@ -1725,26 +1674,19 @@
 	<string name="master_clear_personal_data">"정말 개인정보를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다."</string>
 	<string name="master_clear_personal_data_application">"정말 설치된 앱들을 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다."</string>
 	<string name="master_clear_personal_data_sdcard">"정말 SD카드를 포맷하시겠습니까? 이 작업은 되돌릴 수 없습니다."</string>
-
 	<string name="show_fc">강제종료 표시</string>
 	<string name="show_fc_summary">앱 강제종료 창을 표시합니다.</string>
 	<string name="usage_log">어플리케이션 사용 통계</string>
 	<string name="usb_msd_summary">Windows와 Mac에서 파일 전송</string>
 	<string name="usb_msd_title">USB 대용량 저장소</string>
-	
 	<string name="enable_snapshot_screenlock">길게 눌러 잠금화면 스크린샷 찍기</string>
-	
 	<string name="screen_button_custom">소프트키 위치 사용자화</string>
 	<string name="screen_button_key">소프트키 설정</string>
-	
 	<string name="input_settings">입력 설정</string>
 	<string name="show_magnifier_when_input">확대경 보이기</string>
-	
 	<string name="password_guard">암호 보호</string>
-	
 	<string name="enable_assist_key_long_press">메뉴버튼을 길게 눌러 음성 명령 실행</string>
 	<string name="menu_key">메뉴 버튼</string>
-	
 	<string name="help_label">도움말</string>
 	<string name="debug_input_category">입력</string>
 	<string name="wifi_wps_onstart_pbc">라우터의 Wi-Fi 설정 버튼을 눌러주세요. \"WPS\"라고 적혀있거나 다음과 같은 아이콘으로 표시되어 있을 수 있습니다:</string>
@@ -1883,9 +1825,7 @@
 	<string name="user_dict_settings_add_dialog_less_options">간단한 설정</string>
 	<string name="volume_restore_alert">모든 볼륨설정이 기본값으로 돌아갑니다. 계속할까요?</string>
 	<string name="wifi_wps_failed_wep">무선 라우터 보안 설정(WEP)이 지원되지 않습니다.</string>
-	<string name="enforce_read_external_confirm_message">"이 옵션을 켜면 앱이 외부 저장소에 접근하기 전에 권한을 얻어야 합니다.
-
-	업데이트하기 전까지 앱이 제대로 동작하지 않을 수 있습니다."</string>
+	<string name="enforce_read_external_confirm_message">"이 옵션을 켜면 앱이 외부 저장소에 접근하기 전에 권한을 얻어야 합니다. 	업데이트하기 전까지 앱이 제대로 동작하지 않을 수 있습니다."</string>
 	<string name="wifi_state_enabled">활성화됨</string>
 	<string name="data_usage_auto_sync_off_dialog_title">자동 동기화를 끄시겠습니까?</string>
 	<string name="macaddr_label">MAC 주소:</string>
@@ -1988,10 +1928,8 @@
 	<string name="enable_traces_summary_num">%1$d개의 추적이 활성화 되어있습니다.</string>
 	<string name="wifi_failed_connect_message">네트워크 연결에 실패하였습니다.</string>
 	<string name="virus_scanner_kinsoft_provider">보안 기능 제공: Kingsoft Phone Guardian</string>
-	
 	<string name="dialog_title_entryvalues_dolby_control">돌비 컨트롤</string>
 	<string name="title_dolby_control">돌비 컨트롤</string>
-	
 	<string name="power_mode">전원 모드</string>
 	<string name="wfd_available_devices">사용가능한 장치</string>
 	<string name="wfd_disconnect_diag_msg">Wi-Fi 연결이 끊어지면 %1$s 장치와의 연결도 끊어집니다.</string>
@@ -2002,9 +1940,7 @@
 	<string name="wfd_menu_teardown">연결 해제</string>
 	<string name="wfd_settings_title">Wi-Fi 디스플레이</string>
 	<string name="wifi_menu_wfd">Wi-Fi 디스플레이</string>
-	
 	<string name="skip_step">단계 건너뛰기</string>
-	
 	<string name="back_key">뒤로가기 키</string>
 	<string name="dirac_mode_earbuds">이어버드(이어폰)</string>
 	<string name="dirac_mode_earphones">이어폰</string>

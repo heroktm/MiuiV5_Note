@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">연락처 저장소</string>
+  <string name="call_log_provider_label">통화 기록</string>
   <string name="create_contact">새 연락처</string>
   <string name="default_directory">연락처</string>
   <string name="edit_contact">연락처에 추가</string>

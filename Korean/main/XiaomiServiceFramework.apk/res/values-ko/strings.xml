@@ -103,7 +103,6 @@
 	<string name="find_device_success_title">위치추적 활성화됨</string>
 	<string name="i_know">확인</string>
 	<string name="other_settings">기타 설정</string>
-	
 	<string name="find_device_notice_p1">기기를 분실하였을 때는</string>
 	<string name="find_device_notice_p2">i.xiaomi.com</string>
 	<string name="find_device_notice_p3">에 접속하여 위치추적, 잠금, 데이터 삭제가 가능합니다.</string>

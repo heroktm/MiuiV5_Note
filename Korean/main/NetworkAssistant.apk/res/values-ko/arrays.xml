@@ -1,27 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="traffic_sort_type">
-        <item>이름순 정렬</item>
-        <item>2G/3G 사용량순 정렬</item>
-        <item>전체 사용량순 정렬</item>
-    </string-array>
     <string-array name="date_of_traffic">
         <item>어제</item>
         <item>오늘</item>
         <item>이번 달</item>
     </string-array>
-    <string-array name="carriers">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
+    <string-array name="date_of_app_all">
+        <item>어제 2G/3G</item>
+        <item>오늘 2G/3G</item>
+        <item>이번달 2G/3G</item>
+        <item>어제 Wi-Fi</item>
+        <item>오늘 Wi-fi</item>
+        <item>이번달 Wi-Fi</item>
     </string-array>
-    <string-array name="brands_cmcc">
-        <item>GSM</item>
-        <item>M-Zone</item>
-        <item>Easyown</item>
+    <string-array name="date_of_app">
+        <item>어제 2G/3G</item>
+        <item>오늘 2G/3G</item>
+        <item>이번달 2G/3G</item>
     </string-array>
-    <string-array name="brands_unicom">
-        <item>Unicom 2G</item>
-        <item>Unicom 3G</item>
+    <string-array name="traffic_uints">
+        <item>" B"</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3초</item>
+        <item>4초</item>
+        <item>5초</item>
+        <item>6초</item>
+        <item>7초</item>
+        <item>8초</item>
+        <item>9초</item>
+    </string-array>
+    <string-array name="network_speed_update_internal_values">
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
     </string-array>
 </resources>
