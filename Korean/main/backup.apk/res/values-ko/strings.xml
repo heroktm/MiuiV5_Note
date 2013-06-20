@@ -95,7 +95,7 @@
     <string name="local_home_title">로컬</string>
     <string name="local_no_backup">백업 없음</string>
     <string name="local_restore_window_title">로컬 백업 복구</string>
-    <string name="local_select_account_contact">Accounts &amp; contact</string>
+    <string name="local_select_account_contact">계정 &amp; 연락처</string>
     <string name="local_select_sysdata">시스템 %s</string>
     <string name="local_select_userapp">애플리케이션 %s</string>
     <string name="menu_patch_delete">백업 삭제</string>

@@ -297,7 +297,7 @@
     <string name="private_settings">개인 설정</string>
     <string name="processing">처리 중.....</string>
     <string name="prvate_contact">개인 연락처</string>
-      <string name="rate_limit_surpassed">확인</string>
+    <string name="rate_limit_surpassed">확인</string>
     <string name="received_label">"수신전화: "</string>
     <string name="recipient_editor_count_format">%d명</string>
     <string name="recipient_label">"받는 사람: "</string>

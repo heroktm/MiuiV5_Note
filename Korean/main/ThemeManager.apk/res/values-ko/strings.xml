@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_abnormal_state">계정정보에 문제가 있습니다. 다시 로그인 해주세요</string>
+  <string name="all_resources">전부</string>
   <string name="all_ringtone_resource">전부</string>
   <string name="app_name">테마</string>
   <string name="apply_font_btn_exclude">폰트 빼고 적용</string>
@@ -55,7 +57,7 @@
   <string name="resource_comment_upload_not_bought">댓글을 작성하기 전에 적용부터 하셔야 합니다.</string>
   <string name="resource_comment_upload_not_logined">로그인 해주세요.</string>
   <string name="resource_comment_upload_success">성공적으로 작성했습니다.</string>
-  <string name="resource_comment_version_name">(%1$s version)</string>
+  <string name="resource_comment_version_name">(%1$s 버전)</string>
   <string name="resource_fail_to_show">Theme did not contain the required resources.</string>
   <string name="resource_preview">미리보기</string>
   <string name="short_ringtone_resource">짧음(5초이내)</string>
