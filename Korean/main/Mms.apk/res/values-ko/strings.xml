@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_not_found">첨부파일을 열 수 없음</string>
     <string name="activity_not_found_uri">열 수 없음</string>
@@ -7,7 +7,7 @@
     <string name="add_festival">추천항목</string>
     <string name="add_music">음악 추가</string>
     <string name="add_nickname">별명</string>
-	<string name="add_nickname_title">별명 편집</string>
+    <string name="add_nickname_title">별명 편집</string>
     <string name="add_number_to_sender">%s에 번호 추가</string>
     <string name="add_picture">사진 추가</string>
     <string name="add_private_contact">개인 연락처 추가</string>
@@ -112,11 +112,11 @@
     <string name="enable_visible_pattern_title">패턴 표시 사용</string>
     <string name="enter_edit_mode">편집</string>
     <string name="error_code_label">"오류 코드: "</string>
-	<string name="error_state">변경으로 인한 불일치 상태</string>
+    <string name="error_state">변경으로 인한 불일치 상태</string>
     <string name="error_state_text">대화목록과 받는사람의 상태가 일치하지 않습니다. 버그 보고서를 http://miui.com으로 보내주세요.</string>
     <string name="error_timed_msg">과거시간으로는 예약할 수 없습니다.</string>
-	<string name="ex_type_mx">클라우드 메시지</string>
-	<string name="ex_type_sms">문자</string>
+    <string name="ex_type_mx">클라우드 메시지</string>
+    <string name="ex_type_sms">문자</string>
     <string name="exceed_message_size_limitation">메시지 크기 한도에 도달했습니다.</string>
     <string name="expire_on">만료 날짜: %s</string>
     <string name="exporting_progress_private_message">개인 문자 보관함으로 메시지 보내기</string>
@@ -129,9 +129,9 @@
     <string name="fetion_prefix">[Fetion]</string>
     <string name="flatshow_page_no">%1$d</string>
     <string name="forward_prefix">"전달: "</string>
-	<string name="found_old_messages">%1$s개의 메시지를 이전 게정에서 찾았습니다. %2$s 계정으로 업로드 하시겠습니까?</string>
-	<string name="found_old_messages_title">메시지 업로드</string>
-	<string name="found_wild_messages">다른 SIM카드에 저장된 메시지를 클라우드에서 찾았습니다: %s다운로드 하시겠습니까?</string>
+    <string name="found_old_messages">%1$s개의 메시지를 이전 게정에서 찾았습니다. %2$s 계정으로 업로드 하시겠습니까?</string>
+    <string name="found_old_messages_title">메시지 업로드</string>
+    <string name="found_wild_messages">다른 SIM카드에 저장된 메시지를 클라우드에서 찾았습니다: %s다운로드 하시겠습니까?</string>
     <string name="found_wild_messages_title">메시지 다운로드</string>
     <string name="from_label">"보낸사람: "</string>
     <string name="group_message">그룹 메시지</string>
@@ -149,7 +149,7 @@
     <string name="invalid_recipient_message">수신자를 바르게 설정해야 메시지를 수신할 수 있습니다.</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"슬라이드쇼 레이아웃 "</string>
-	<string name="loading_all_messages">전체 메시지 불러오는 중...</string>
+    <string name="loading_all_messages">전체 메시지 불러오는 중...</string>
     <string name="loading_conversations">대화 불러오는 중...</string>
     <string name="loading_mms">불러오는 중...</string>
     <string name="me">나</string>
@@ -184,9 +184,9 @@
     <string name="mms">MMS</string>
     <string name="move_down">아래로 이동</string>
     <string name="move_up">위로 이동</string>
-	<string name="msg_type_hint_mms">멀티미디어 메시지</string>
-	<string name="msg_type_hint_mx">클라우드 메시지</string>
-	<string name="msg_type_hint_sms">일반 메시지</string>
+    <string name="msg_type_hint_mms">멀티미디어 메시지</string>
+    <string name="msg_type_hint_mx">클라우드 메시지</string>
+    <string name="msg_type_hint_sms">일반 메시지</string>
     <string name="multimedia_message">멀티미디어 메시지</string>
     <string name="multimedia_notification">멀티미디어 메시지 알림</string>
     <string name="mx_activate_error_malformed_info">당신의 개인정보가 차단되었습니다. 클라우드 메시지 활성화가 필요합니다.</string>
@@ -199,25 +199,25 @@
     <string name="mx_activate_int_hint_malformed_info">당신의 개인정보가 차단되었습니다. 클라우드 메시지 활성화가 필요합니다. 활성화 하시겠습니까?</string>
     <string name="mx_activate_int_hint_server">서버에 연결되지 않았습니다 클라우드 메시지를 사용하시려면 연결이 필요합니다. 연결하시겠습니까?</string>
     <string name="mx_activate_int_hint_sim_change">SIM 카드가 변경되어 클라우드 메시지 활성화가 필요합니다. 지금 하시겠습니까?</string>
-	<string name="mx_auto_resend_mms">MMS로 보내기</string>
+    <string name="mx_auto_resend_mms">MMS로 보내기</string>
     <string name="mx_auto_resend_mms_summary">클라우드 메시지를 사용할 수없는 경우 MMS로 보낼 수 있습니다. 통신사 메시지 요금이 부과 될 수 있습니다</string>
-	<string name="mx_auto_resend_sms">SMS로 보내기</string>
-	<string name="mx_auto_resend_sms_summary">클라우드 메시지를 사용할 수 없을 시 SMS로 전송합니다.</string>
-	<string name="mx_btn_enable">활성화</string>
-	<string name="mx_count_dspt">MIUI가 총 %1$d개의 클라우드 메시지를 전송했습니다. (%2$s)</string>
+    <string name="mx_auto_resend_sms">SMS로 보내기</string>
+    <string name="mx_auto_resend_sms_summary">클라우드 메시지를 사용할 수 없을 시 SMS로 전송합니다.</string>
+    <string name="mx_btn_enable">활성화</string>
+    <string name="mx_count_dspt">MIUI가 총 %1$d개의 클라우드 메시지를 전송했습니다. (%2$s)</string>
     <string name="mx_current_status">현제 상태 : 온라인</string>
-	<string name="mx_dspt">MIUI 사용자끼리 메시지를 주고받습니다. 실패할경우 일반 메시지로 전송합니다.</string>
-	<string name="mx_enable">클라우드 메시지 활성화</string>
+    <string name="mx_dspt">MIUI 사용자끼리 메시지를 주고받습니다. 실패할경우 일반 메시지로 전송합니다.</string>
+    <string name="mx_enable">클라우드 메시지 활성화</string>
     <string name="mx_enable_int_popup_msg">클라우드 메시지는 MIUI 사용자간에 메시지를 보낼 수 있습니다. 활성화하면 국제 SMS가 전송됩니다. 사용하실경우 추가요금이 발생할 수 있습니다. 필요하지 않은경우 나중에 설정하셔도 됩니다.
     <string name="mx_enable_popup_msg">클라우드 메시지는 MIUI 사용자간에 메시지를 보낼 수 있습니다.. 활성화하면 SMS가 전송됩니다. 통신사에 따라서 추가요금이 발생할 수 있습니다. 필요한경우 활성화 할 수 있습니다.</string>
     <string name="mx_int_warning_notice">국제 SMS는 클라우드 메시지를 활성화하기 위해 전송됩니다. 통신사의 데이터 요금이 부과 될 수 있습니다</string>
     <string name="mx_msg">클라우드 메시지</string>
-	<string name="mx_offline">오프라인</string>
-	<string name="mx_online">온라인</string>
+    <string name="mx_offline">오프라인</string>
+    <string name="mx_online">온라인</string>
     <string name="mx_reactivate">클라우드 메시지 재 활성화</string>
     <string name="mx_recommend_msg">클라우드 메시지 사용 설정. 클릭하면 활성화 되고 무료 메시지가 전송됩니다.</string>
-	<string name="mx_warning_notice">클라우드 메시지 활성화시 SMS 하나가 전송됩니다.</string>
-	<string name="need_download">동기화 대기 중...</string>
+    <string name="mx_warning_notice">클라우드 메시지 활성화시 SMS 하나가 전송됩니다.</string>
+    <string name="need_download">동기화 대기 중...</string>
     <string name="new_message">새 메시지</string>
     <string name="new_message_arrived">새 메시지</string>
     <string name="new_phrase">자주 쓰는 문구 추가</string>
@@ -235,7 +235,7 @@
     <string name="notification_multiple_title">새 메시지</string>
     <string name="number_add_hint">번호 입력해서 개인연락처에 추가</string>
     <string name="phrase_confirm_delete_message">선택한 문구를 삭제합니다.</string>
-	<string name="phrase_empty">구문 없음</string>
+    <string name="phrase_empty">구문 없음</string>
     <string name="phrase_from">%1s 로부터</string>
     <string name="phrase_list_title">자주 쓰는 문구</string>
     <string name="pick_too_many_recipients">수신자가 너무 많습니다.</string>
@@ -278,7 +278,7 @@
     <string name="pref_title_sms_delete">문자 메시지 한도</string>
     <string name="pref_title_system_mms_priority">시스템 메시지 앱 우선순위</string>
     <string name="pref_title_wake_up_screen">화면 켜기</string>
-	<string name="prefDefault_ringtone_repeat">1</string>
+    <string name="prefDefault_ringtone_repeat">1</string>
     <string name="prefDefault_vibrate_false">진동 없음</string>
     <string name="prefDefault_vibrate_true">항상</string>
     <string name="prefDefault_vibrateWhen">진동 없음</string>
@@ -345,7 +345,7 @@
     <string name="service_network_problem">네트워크 오류</string>
     <string name="service_not_activated">네트워크에서 서비스가 활성화되지 않았습니다.</string>
     <string name="set">설정</string>
-	<string name="show_all_messages">전체 메시지 보기</string>
+    <string name="show_all_messages">전체 메시지 보기</string>
     <string name="sim_copy_to_phone_memory">휴대전화 메모리에 복사</string>
     <string name="sim_delete">삭제</string>
     <string name="sim_empty">SIM 카드에 저장된 메시지가 없습니다.</string>
@@ -383,7 +383,7 @@
     <string name="timed_message_expired_title_2">지금 전송할까요?</string>
     <string name="timed_message_in_total">... (총 %d개)</string>
     <string name="timed_message_to">에게</string>
-	<string name="title_date_type">메시지 시간 표시 형식</string>
+    <string name="title_date_type">메시지 시간 표시 형식</string>
     <string name="title_timed_message_dialog">메시지 예약 전송시각을 설정하세요.</string>
     <string name="to_address_label">"받는사람: "</string>
     <string name="to_count">총 %d명</string>
@@ -398,7 +398,7 @@
     <string name="type_to_compose_text_enter_to_send">메시지를 입력하세요.</string>
     <string name="type_to_compose_text_or_leave_blank">메시지를 입력하거나 비워 두세요.</string>
     <string name="type_video">동영상</string>
-    <string name="undelivered_msg_dialog_body">"메시지를 보낼 수 없습니다. 마지막으로 시도한 시각: %s"</string>
+    <string name="undelivered_msg_dialog_body">"메시지를 보낼 수 없습니다. 	마지막으로 시도한 시각: %s"</string>
     <string name="undelivered_msg_dialog_title">전송되지 않은 메시지</string>
     <string name="undelivered_sms_dialog_body">메시지를 보낼 수 없습니다.</string>
     <string name="unknown_num">알 수 없는 번호</string>
