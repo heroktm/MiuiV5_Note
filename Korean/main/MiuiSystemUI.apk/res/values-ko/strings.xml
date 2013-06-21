@@ -268,7 +268,7 @@
     <string name="usb_mode_notification">USB 저장소</string>
     <string name="usb_mtp_text">파일</string>
     <string name="usb_notification">USB 로 연결됨</string>
-    <string name="usb_notification_mtp_info">컴퓨터를통해 모바일 파일 접근</string>
+    <string name="usb_notification_mtp_info">컴퓨터를 통해 내부 저장소 접근</string>
     <string name="usb_notification_mtp_problem">도움말</string>
 	<string name="usb_notification_mtp_ticker_text">USB 연결됨 (파일 모드)</string>
     <string name="usb_notification_ptp_info">컴퓨터를 통해 사진 접근</string>
