@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="account_contact_backup_info">데이터 (Xiaomi 계정, Gmail, Email 계정. 스토어 계정과 주소록 포함)</string>
     <string name="account_login">로그인</string>
