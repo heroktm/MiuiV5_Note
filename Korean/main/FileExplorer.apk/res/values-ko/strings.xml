@@ -37,7 +37,7 @@
   <string name="clean_message">%1$s 삭제중</string>
   <string name="clean_title">휴지통에 30일이상 오래된 파일 삭제</string>
   <string name="clean_trash_box">휴지통이 비어있음</string>
-  <string name="cleanup_complete">정리 완료</string>
+  <string name="cleanup_complete">정리 성공</string>
   <string name="close">닫기</string>
   <string name="compress_fail">대상이 이미 존재하여 압축 실패하였습니다.</string>
   <string name="compress_message">압축할 위치:</string>
@@ -116,8 +116,8 @@
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">정리 취소</string>
   <string name="header_text_cleaned">쓸모없는것 삭제됨</string>
-  <string name="header_text_cleaning">삭제중</string>
-  <string name="header_text_scanned">삭제 가능한 쓸모없는 파일 발견</string>
+  <string name="header_text_cleaning">남아있는 쓸모없는것 삭제</string>
+  <string name="header_text_scanned">삭제 가능항 쓸모없는 파일 발견</string>
   <string name="header_text_scanning">쓸모없는 파일들 검색중</string>
   <string name="instruction">FTP 클라이언트에 아래 주소를 입력하세요</string>
   <string name="instruction_pre">FTP서버 시작</string>
@@ -211,7 +211,7 @@
   <string name="sd_card_size">SD 카드: %1$s</string>
   <string name="sd_full">SD 카드 가득참</string>
   <string name="sd_size_label">SD 카드 저장소</string>
-  <string name="search_hint">파일 정리</string>
+  <string name="search_hint">파일 검색</string>
   <string name="search_title">검색</string>
   <string name="send_to_midrive">MiDrive로 전송</string>
   <string name="send_to_midrive_failed_message">MiDrive는 이 유형의 파일을 지원하지 않습니다.</string>
